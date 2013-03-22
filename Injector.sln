@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Injector", "Injector\Injector.vcxproj", "{638C1BD2-E0AE-47AB-A648-DEBA41B90C19}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestEXE", "TestEXE\TestEXE.vcxproj", "{8A1A7294-A80C-423C-A8F3-0E2B4C5E0277}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestDLL", "TestDLL\TestDLL.vcxproj", "{836CFEA8-CB31-49AE-81C5-50E695E6B0CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{638C1BD2-E0AE-47AB-A648-DEBA41B90C19}.Debug|Win32.ActiveCfg = Debug|Win32
+		{638C1BD2-E0AE-47AB-A648-DEBA41B90C19}.Debug|Win32.Build.0 = Debug|Win32
+		{638C1BD2-E0AE-47AB-A648-DEBA41B90C19}.Release|Win32.ActiveCfg = Release|Win32
+		{638C1BD2-E0AE-47AB-A648-DEBA41B90C19}.Release|Win32.Build.0 = Release|Win32
+		{8A1A7294-A80C-423C-A8F3-0E2B4C5E0277}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8A1A7294-A80C-423C-A8F3-0E2B4C5E0277}.Debug|Win32.Build.0 = Debug|Win32
+		{8A1A7294-A80C-423C-A8F3-0E2B4C5E0277}.Release|Win32.ActiveCfg = Release|Win32
+		{8A1A7294-A80C-423C-A8F3-0E2B4C5E0277}.Release|Win32.Build.0 = Release|Win32
+		{836CFEA8-CB31-49AE-81C5-50E695E6B0CE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{836CFEA8-CB31-49AE-81C5-50E695E6B0CE}.Debug|Win32.Build.0 = Debug|Win32
+		{836CFEA8-CB31-49AE-81C5-50E695E6B0CE}.Release|Win32.ActiveCfg = Release|Win32
+		{836CFEA8-CB31-49AE-81C5-50E695E6B0CE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
